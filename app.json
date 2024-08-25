@@ -1,13 +1,13 @@
 {
-"name": "GataBot-MD",
+"name": "KittyBot-MD",
 "website": "https://github.com/GataNina-Li",
 "description": "Super Bot WhatsApp",
-"repository": "https://github.com/GataNina-Li/GataBot-MD",
-"logo": "https://telegra.ph/file/b46f45b5b69f311db31c7.jpg",
-"success_url": "https://github.com/GataNina-Li/GataBot-MD",
+"repository": "https://github.com/kitty-ff/Kitty_Bot_.git",
+"logo": "https://telegra.ph/kitty-Bot-08-25",
+"success_url": "https://github.com/kitty-ff/Kitty_Bot_.git",
 "keywords": [
 "nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
-"termux", "superbot", "multi-device", "md", "official", "javascript", "gatabot"],
+"termux", "superbot", "multi-device", "md", "official", "javascript", "kittybot"],
 "image": "heroku/nodejs",
 "buildpacks": [
 { "url": "heroku/nodejs" },
